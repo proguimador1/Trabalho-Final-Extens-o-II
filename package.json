@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "Jogo de testes",
+        "title": "As aventuras de .py",
         "width": 816,
         "height": 624,
         "position": "center",
