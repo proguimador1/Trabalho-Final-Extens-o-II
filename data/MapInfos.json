@@ -3,9 +3,9 @@ null,
 {"id":1,"expanded":true,"name":"Rio_Repetições","order":5,"parentId":0,"scrollX":829,"scrollY":1357},
 {"id":2,"expanded":false,"name":"Labirinto_Condições","order":6,"parentId":0,"scrollX":1475,"scrollY":875},
 {"id":3,"expanded":false,"name":"Opening cutscene","order":8,"parentId":0,"scrollX":813,"scrollY":585},
-{"id":4,"expanded":false,"name":"Templo_Fuções","order":7,"parentId":0,"scrollX":1129,"scrollY":1933},
-{"id":5,"expanded":false,"name":"pythonlândia","order":1,"parentId":0,"scrollX":1423,"scrollY":1161},
-{"id":6,"expanded":false,"name":"Silo das Variáveis","order":2,"parentId":0,"scrollX":1401,"scrollY":633},
-{"id":7,"expanded":false,"name":"Andar Superior","order":3,"parentId":0,"scrollX":605.5,"scrollY":773.5},
-{"id":8,"expanded":true,"name":"Porão","order":4,"parentId":0,"scrollX":829,"scrollY":753}
+{"id":4,"expanded":false,"name":"Templo_Fuções","order":7,"parentId":0,"scrollX":1575,"scrollY":1933},
+{"id":5,"expanded":false,"name":"pythonlândia","order":1,"parentId":0,"scrollX":1171,"scrollY":903},
+{"id":6,"expanded":false,"name":"Silo das Variáveis","order":2,"parentId":0,"scrollX":1107,"scrollY":1335},
+{"id":7,"expanded":false,"name":"Andar Superior","order":3,"parentId":0,"scrollX":813,"scrollY":695},
+{"id":8,"expanded":true,"name":"Porão","order":4,"parentId":0,"scrollX":819,"scrollY":753}
 ]
