@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Rio_Repetições","order":5,"parentId":0,"scrollX":1252.5,"scrollY":849.5},
-{"id":2,"expanded":false,"name":"Labirinto_Condições","order":6,"parentId":0,"scrollX":1588.5,"scrollY":743.5},
-{"id":3,"expanded":false,"name":"Opening cutscene","order":8,"parentId":0,"scrollX":409.5,"scrollY":331.5},
+{"id":2,"expanded":false,"name":"Labirinto_Condições","order":6,"parentId":0,"scrollX":785.5,"scrollY":1153.5},
+{"id":3,"expanded":false,"name":"Opening cutscene","order":8,"parentId":0,"scrollX":414.5,"scrollY":323.5},
 {"id":4,"expanded":false,"name":"Templo_Fuções","order":7,"parentId":0,"scrollX":2050.5,"scrollY":1395.5},
 {"id":5,"expanded":false,"name":"Pythonlândia","order":1,"parentId":0,"scrollX":1332.5,"scrollY":1139.5},
 {"id":6,"expanded":false,"name":"Silo das Variáveis","order":2,"parentId":0,"scrollX":1238.5,"scrollY":1257.5},
